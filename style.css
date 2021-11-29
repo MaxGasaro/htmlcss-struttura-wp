@@ -32,6 +32,8 @@ header {
 
 .lightblue {
     background-color: lightblue;
+    height: 86%;
+    float: left;
 }
 
 .title {
@@ -41,23 +43,17 @@ header {
 }
 
 .lightblue.left {
-    height: 86%;
     width: 20%;
-    float: left;
 }
 
 .lightblue.center {
-    height: 86%;
     width: 56%;
     margin-right: 2%;
     margin-left: 2%;
-    float: left;
 }
 
 .lightblue.right {
-    height: 86%;
     width: 20%;
-    float: left;
 }
 
 .blue::after {
